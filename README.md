@@ -1,6 +1,6 @@
 ### Business Insights 360
 
-### My Dashboard:  _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNGI0NjVjNGEtMDZhNy00NTkyLTkwNjAtNDM1NTRjMjdkYjkyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+### My Dashboard:  _[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNGI0NjVjNGEtMDZhNy00NTkyLTkwNjAtNDM1NTRjMjdkYjkyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7d1acfb005b7901aa35e)_
 
 ### Home Page:- 
 * Display Overview
